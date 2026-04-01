@@ -30,9 +30,6 @@
 
 **Stats**
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=pietrorenzii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=888888&rank_icon=github" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrorenzii&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888" />
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=pietrorenzii&theme=github-dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=888888&currStreakNum=ffffff&sideNums=888888)](https://git.io/streak-stats)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pietrorenzii&theme=github-compact&bg_color=0d1117&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true)
