@@ -6,26 +6,32 @@
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pietrorenzii&theme=github_dark" width="100%"/>
+<!-- METRIC CARDS ROW -->
+<img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pietrorenzii&theme=github_dark"/>
+<img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pietrorenzii&theme=github_dark"/>
+<img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pietrorenzii&theme=github_dark"/>
+<img height="110" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pietrorenzii&theme=github_dark&utcOffset=1"/>
 
 <br/>
 
+<!-- CONTRIBUTION GRAPH — replica identica a quella nativa GitHub -->
+<img width="100%" src="https://ghchart.rshah.org/3fb950/pietrorenzii"/>
+
+<br/>
+
+<!-- STATS + DONUT LANGUAGES -->
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=pietrorenzii&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=3fb950&text_color=8b949e&rank_icon=github&include_all_commits=true&count_private=true"/>
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrorenzii&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
 
 <br/>
 
+<!-- STREAK -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=pietrorenzii&theme=github-dark-blue&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=8b949e&stroke=0d1117)](https://git.io/streak-stats)
 
 <br/>
 
+<!-- ACTIVITY GRAPH full width -->
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pietrorenzii&theme=github-compact&bg_color=0d1117&color=3fb950&line=3fb950&point=ffffff&area_color=3fb950&area=true&hide_border=true&title_color=ffffff"/>
-
-<br/>
-
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pietrorenzii&theme=github_dark"/>
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pietrorenzii&theme=github_dark"/>
-<img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pietrorenzii&theme=github_dark&utcOffset=1"/>
 
 <br/>
 
