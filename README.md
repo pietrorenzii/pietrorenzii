@@ -1,12 +1,7 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:0d1117&height=160&section=header&text=Pietro%20Renzi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=3D%20%E2%80%A2%20Motion%20Graphics%20%E2%80%A2%20AI%20Creative%20%E2%80%A2%20Vibe%20Coding&descAlignY=60&descAlign=50&descColor=888888)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Transforming+strategic+visions+into+digital+experiences;Premium+3D+%26+Motion+for+tech+companies;AI+Creative+Workflows+%2B+Vibe+Coding)](https://git.io/typing-svg)
-
-
-"Transforming strategic visions into revenue-generating digital experiences. Creating premium 3D motion, motion graphics and Vibe Coding websites/apps for tech companies and scaling startups."
-
 ---
 
 **Creative Tools**
